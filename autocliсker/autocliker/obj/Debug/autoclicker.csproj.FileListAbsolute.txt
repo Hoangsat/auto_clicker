@@ -1,0 +1,11 @@
+C:\Users\HoangNout\Videos\auto_clicker\autocliсker\autocliker\bin\Debug\autocliker.exe.config
+C:\Users\HoangNout\Videos\auto_clicker\autocliсker\autocliker\bin\Debug\autocliker.exe
+C:\Users\HoangNout\Videos\auto_clicker\autocliсker\autocliker\bin\Debug\autocliker.pdb
+C:\Users\HoangNout\Videos\auto_clicker\autocliсker\autocliker\obj\Debug\autoclicker.csproj.AssemblyReference.cache
+C:\Users\HoangNout\Videos\auto_clicker\autocliсker\autocliker\obj\Debug\autoclicker.csproj.SuggestedBindingRedirects.cache
+C:\Users\HoangNout\Videos\auto_clicker\autocliсker\autocliker\obj\Debug\autocliker.Form1.resources
+C:\Users\HoangNout\Videos\auto_clicker\autocliсker\autocliker\obj\Debug\autocliker.Properties.Resources.resources
+C:\Users\HoangNout\Videos\auto_clicker\autocliсker\autocliker\obj\Debug\autoclicker.csproj.GenerateResource.cache
+C:\Users\HoangNout\Videos\auto_clicker\autocliсker\autocliker\obj\Debug\autoclicker.csproj.CoreCompileInputs.cache
+C:\Users\HoangNout\Videos\auto_clicker\autocliсker\autocliker\obj\Debug\autocliker.exe
+C:\Users\HoangNout\Videos\auto_clicker\autocliсker\autocliker\obj\Debug\autocliker.pdb
